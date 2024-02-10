@@ -1,0 +1,4 @@
+.menupage {
+  display: flex;
+  justify-content: space-around;
+}

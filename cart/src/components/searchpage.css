@@ -1,0 +1,9 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+input {
+  height: 40px;
+  width: 440px;
+}

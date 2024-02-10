@@ -1,0 +1,11 @@
+.cart1 {
+  width: 20vw;
+  display: flex;
+  justify-content: space-between;
+}
+card {
+  padding: 5px 5px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px;
+}

@@ -1,0 +1,9 @@
+.cartpage{
+    display:flex;
+    justify-content: space-between;
+}
+
+.button{
+    height: 36px;
+    padding-left: 5px;
+}

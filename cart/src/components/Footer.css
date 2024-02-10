@@ -1,0 +1,17 @@
+.footer {
+  height: 350px;
+  margin: 0;
+  background-color: black;
+}
+
+.top1 {
+  padding: 15px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+.logo {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
